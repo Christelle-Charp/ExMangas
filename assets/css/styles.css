@@ -1,0 +1,191 @@
+/**Reset**/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/**Styles généraux**/
+body {
+    font-family: arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #ffffff;
+}
+
+/**Header**/
+header {
+    background-color: #333333;
+    padding: 20px;
+    color: #ffffff;
+}
+
+.inline {
+    display: inline-block;
+}
+
+.logo-header {
+    width: 200px;
+}
+
+/**main**/
+main {
+    width: 1000px;
+    margin: auto;
+    padding: 20px;
+}
+
+a {
+    color: #030303;
+}
+
+span {
+    font-weight: bolder;
+}
+
+h1 {
+    font-weight: bolder;
+    font-size: 40px;
+    
+}
+
+h2 {
+    font-weight: bolder;
+}
+
+p {
+    text-align: justify;
+}
+
+.center {
+    text-align: center;
+}
+
+/**tools**/
+
+.underligne-home {
+    border-bottom: #030303 solid 3px;
+}
+
+.underligne-ch {
+    border-bottom: #993399 solid 3px;
+}
+
+.underligne-cobra {
+    border-bottom: #ff5733 solid 3px;
+}
+
+.underligne-op {
+    border-bottom: #ffcc00 solid 3px;
+}
+
+.white {
+    text-decoration: none;
+    color: #ffffff;
+    text-decoration-line: underline;
+}
+
+.img-general {
+    width: 200px;
+    border-radius: 10px;
+    margin-left: 400px;
+}
+
+/**Pour les cartes ACCueil**/
+
+.img-card {
+    width: 200px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.card-ch {
+    background-color: #993399;
+    width: 600px;
+    height: 250px;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 15px;
+}
+
+.card-op {
+    background-color: #ffcc00;
+    width: 600px;
+    height: 250px;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 15px;
+}
+
+.card-cobra {
+    background-color: #ff5733;
+    width: 600px;
+    height: 250px;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 15px;
+}
+
+/**Ne marche pas**/
+.clic-here {
+    text-align: right;
+    margin: auto;
+    padding: 0px;
+}
+
+/**Pour les tableaux**/
+
+table {
+    border: #030303 solid 1px;
+    border-collapse: collapse;
+    margin: auto;
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    border: #030303 solid 1px;
+    font-weight: bolder;
+    text-decoration-line: underline;
+    width: 200px;
+}
+
+td {
+    border: #030303 solid 1px;
+}
+
+.bg-table {
+    background-color: #ededed;
+}
+
+.img-table {
+    width: 150px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.bg-color-op {
+    background-color: #ffcc00;
+}
+
+.bg-color-ch {
+    background-color: #993399;
+}
+
+.bg-color-cobra {
+    background-color: #ff5733;
+}
+
+/**Footer**/
+
+footer {
+    background-color: #333333;
+    padding: 20px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.logo-footer {
+    width: 80px;
+}
