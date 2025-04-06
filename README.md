@@ -1,4 +1,4 @@
-# Aker
+# Ex Manga
 C'est un exercice pour débuter en css et en créant des liens entre les pages
 Pas d'utilisation de flexbox
 ## Démo en ligne
